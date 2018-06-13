@@ -1,0 +1,7 @@
+print("hello")
+print("name")
+print("game")
+print("input a=")
+print("hello")
+a = input()
+print(a)
